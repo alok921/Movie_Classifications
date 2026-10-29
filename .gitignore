@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+data/train/*
+data/test/*
+!data/train/.gitkeep
+!data/test/.gitkeep
+models/*.keras
+videos/*
+!videos/.gitkeep
